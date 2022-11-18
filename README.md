@@ -1,6 +1,8 @@
-# news_app
+# Flutter News App
 
-A new Flutter project.
+This project is to showcase how to work with HttpClient in Flutter.
+
+News API: http://newsapi.org/v2/everything?domains=wsj.com&apiKey=YOUR_API_KEY
 
 ## Getting Started
 
